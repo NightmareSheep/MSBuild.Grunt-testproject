@@ -1,0 +1,17 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/js/core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Frank",
+  "license": "none",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-sass": "^1.0.0"
+  }
+}
